@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EvergreenLife>
+    <details>
+        <name>Mr. John Doe</name>
+        <date_of_birth>1-Jan-1990</date_of_birth>
+        <extract_date>21-Dec-2020</extract_date>
+    </details>
+    <record type="Results">
+        <results>
+        </results>
+    </record>
+</EvergreenLife>

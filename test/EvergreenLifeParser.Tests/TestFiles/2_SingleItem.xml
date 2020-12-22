@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EvergreenLife>
+    <details>
+        <name>Mr. John Doe</name>
+        <date_of_birth>1-Jan-1990</date_of_birth>
+        <extract_date>21-Dec-2020</extract_date>
+    </details>
+    <record type="Results">
+        <results>
+            <result>
+                <date>15-Oct-2019</date>
+                <name>Erythrocyte sedimentation rate</name>
+                <code>648521000006111</code>
+                <comment>(adoctor) - Normal - No Action  </comment>
+                <value>3.000</value>
+                <units>mm/h</units>
+                <value_minimum>0</value_minimum>
+                <value_maximum>10</value_maximum>
+            </result>
+        </results>
+    </record>
+</EvergreenLife>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EvergreenLife>
+    <details>
+        <name>Mr. John Doe</name>
+        <date_of_birth>1-Jan-1990</date_of_birth>
+        <extract_date>21-Dec-2020</extract_date>
+    </details>
+    <record type="Results">
+        <results>
+            <result>
+                <date>15-Oct-2019</date>
+                <name>Erythrocyte sedimentation rate</name>
+                <code>648521000006111</code>
+                <comment>(adoctor) - Normal - No Action  </comment>
+                <value>3.000</value>
+                <units>mm/h</units>
+                <value_minimum>0</value_minimum>
+                <value_maximum>10</value_maximum>
+            </result>
+            <result>
+                <date>15-Oct-2019</date>
+                <name>Full blood count - FBC</name>
+                <code>795331000006111</code>
+                <comment>(adoctor) - Normal - No Action  </comment>
+                <date>15-Oct-2019</date>
+                <name>Total white cell count</name>
+                <code>98461000006116</code>
+                <value>5.300</value>
+                <units>10*9/L</units>
+                <value_minimum>3.5</value_minimum>
+                <value_maximum>10</value_maximum>
+                <date>15-Oct-2019</date>
+                <name>Red blood cell (RBC) count</name>
+                <code>183211000006119</code>
+                <value>5.040</value>
+                <units>10*12/L</units>
+                <value_minimum>4.25</value_minimum>
+                <value_maximum>5.75</value_maximum>
+            </result>
+        </results>
+    </record>
+</EvergreenLife>
